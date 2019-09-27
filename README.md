@@ -2,7 +2,7 @@
 
 ## step 1. make project
 
-> $ npm i -g @nestjs/cli
+> $ npm i -g @nestjs/cli  
 > $ nest new PROJECT_NAME
 
 ## step 2. apply hot reload
