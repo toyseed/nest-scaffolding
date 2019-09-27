@@ -13,5 +13,8 @@
 
 run execution command
 
+- `npm install`
 - run `npm run webpack` on console
 - run `npm run server` on another console
+
+## step 4. happy coding
